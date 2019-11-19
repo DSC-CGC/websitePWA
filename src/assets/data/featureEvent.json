@@ -1,6 +1,6 @@
 {
-    "FeatureEventName": "Flutter Interact Extended",
-    "EventImage": "https://developers.google.com/events/flutter-interact/images/flutter-interact-social.png",
+    "FeatureEventName": "",
+    "EventImage": "",
     "EventDate": {
         "Date": "23",
         "Month": "12",
@@ -12,11 +12,11 @@
     },
     "EventVenue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
     "EventVenueMapLink": "https://goo.gl/maps/3UQvh5ixVuGKBUao6",
-    "EventWebsite": "https://developers.google.com/events/flutter-interact",
+    "EventWebsite": "",
     "EventDescription": "We’re hosting a viewing party for Flutter Interact, and we’d love for you to be part of the celebration!",
     "MeetupLink": "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink": "https://bit.ly/cgc-flutter",
-    "FBEventPageURL": "https://www.instagram.com/dsccgc",
-    "TwitterURL": "https://twitter.com/dsccgc/"
+    "RegistrationLink": "",
+    "FBEventPageURL": "",
+    "TwitterURL": ""
 
 }
