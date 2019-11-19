@@ -1,0 +1,29 @@
+[debug] [2019-11-16T12:24:11.861Z] ----------------------------------------------------------------------
+[debug] [2019-11-16T12:24:11.864Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Hp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-11-16T12:24:11.864Z] CLI Version:   7.7.0
+[debug] [2019-11-16T12:24:11.864Z] Platform:      win32
+[debug] [2019-11-16T12:24:11.864Z] Node Version:  v10.15.3
+[debug] [2019-11-16T12:24:11.865Z] Time:          Sat Nov 16 2019 17:54:11 GMT+0530 (India Standard Time)
+[debug] [2019-11-16T12:24:11.865Z] ----------------------------------------------------------------------
+[debug] [2019-11-16T12:24:11.865Z] 
+[debug] [2019-11-16T12:24:11.932Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-16T12:24:11.933Z] > authorizing via signed-in user
+[debug] [2019-11-16T12:24:11.933Z] [iam] checking project aura-client-master-3c3bc for permissions ["firebase.projects.get"]
+[debug] [2019-11-16T12:24:11.936Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-11-16T12:24:11.936Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-11-16T12:24:12.547Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-16T12:24:12.584Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/aura-client-master-3c3bc:testIamPermissions  
+
+[debug] [2019-11-16T12:24:13.933Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-16T12:24:13.935Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/aura-client-master-3c3bc  
+ 
+[debug] [2019-11-16T12:24:14.856Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'D:\DSC Projects\websitePWA-master'...
+[info] 
+[debug] [2019-11-16T12:24:14.860Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/aura-client-master-3c3bc/webApps/-/config  
+ 
+[debug] [2019-11-16T12:24:15.943Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
