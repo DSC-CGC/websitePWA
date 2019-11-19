@@ -80,11 +80,9 @@
                                     <v-btn icon ripple :href="item.link" target="_blank" slot="activator">
                                         <v-icon color="grey darken-1">info</v-icon>
                                     </v-btn>
-
                                     <span>See More about {{item.name}}</span>
                                 </v-tooltip>
                             </v-list-tile-action>
-
                         </v-list-tile>
 
 
