@@ -5,7 +5,7 @@
                <p class="google-font" style="font-size:180%">What we do?</p>
                <p class="google-font" style="font-size:110%">This Club provides the platform to the students for many technical related problems and assist them to build Web Technologies, Machine Learning, Mobile App Development and Cloud skills.</p>
 
-               <p class="google-font" style="font-size:110%">About different Google technologies</p>
+               <p class="google-font" style="font-size:110%">Tap on the below given icons and start learning now! </p>
 
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>
@@ -40,9 +40,9 @@
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <v-icon large style="font-size:300%">school</v-icon>
-                        <p class="google-font" style="font-size:130%">Campus Roadshows</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <v-icon large style="font-size:300%">laptop</v-icon>
+                        <p class="google-font" style="font-size:130%">Workshops</p>
+                        <p class="google-font" style="font-size:110%">Focusing on learning a new technology, together</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
