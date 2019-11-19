@@ -2,36 +2,36 @@
     {
         "TechName":"Angular",
         "image":"angular.svg",
-        "link":"https://angular.io/"
+        "link":"https://codelabs.developers.google.com/codelabs/angular-codelab/index.html"
     },
     {
         "TechName":"Google Cloud Platform",
         "image":"gcp.svg",
-        "link":"https://cloud.google.com/"
+        "link":"https://codelabs.developers.google.com/?cat=Cloud"
     },
     {
         "TechName":"Android",
         "image":"android.svg",
-        "link":"https://www.android.com/"
+        "link":"https://codelabs.developers.google.com/?cat=Android"
     },
     {
         "TechName":"Actions On Google",
         "image":"aog.png",
-        "link":"https://developers.google.com/actions/"
+        "link":"https://codelabs.developers.google.com/?cat=Assistant"
     },
     {
         "TechName":"Firebase",
         "image":"firebase.svg",
-        "link":"https://firebase.google.com/"
+        "link":"https://codelabs.developers.google.com/?cat=Firebase"
     },
     {
         "TechName":"TensorFlow",
         "image":"tf.svg",
-        "link":"https://www.tensorflow.org/"
+        "link":"https://codelabs.developers.google.com/?cat=TensorFlow"
     },
     {
         "TechName":"FLutter",
         "image":"flutter.svg",
-        "link":"https://www.flutter.dev/"
+        "link":"https://codelabs.developers.google.com/?cat=Flutter"
     }
 ]
