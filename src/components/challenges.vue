@@ -12,7 +12,7 @@
                     style="border-radius: 5px; border:1px solid white"
                     :class="`elevation-${hover ? 2 : 0}`"
                     class="text-xs-center ma-1 pa-1 py-3 my-0" >
-                    <v-avatar size="100">
+                    <v-avatar size="150">
                         <v-img
                         :src="(item.profileImage)"
                         :lazy-src="(item.profileImage)">
@@ -30,6 +30,7 @@
                         </v-img>
                     </v-avatar>
                     <p class="mt-3 mb-0 google-font" style="font-size:130%">{{item.name}}</p>
+                    Deadline-
                     <p class="mt-1 mb-0 google-font">{{item.Deadline}}</p>
 
                     <SpeakerDialog :data="{jsonData:item}" />

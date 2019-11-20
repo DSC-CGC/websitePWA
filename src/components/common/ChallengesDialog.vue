@@ -21,7 +21,7 @@
           class="headline grey lighten-2"
           primary-title
         >
-        <v-avatar size="50">
+        <v-avatar size="140">
             <v-img
             :src="(data.jsonData.profileImage)"
             :lazy-src="(data.jsonData.profileImage)">
@@ -42,24 +42,12 @@
         </v-card-title>
 
         <v-card-text>
-            <p class="google-font mb-0">{{data.jsonData.city}}, {{data.jsonData.country}}</p>
-            <p class="google-font mt-1">{{data.jsonData.designation}}, {{data.jsonData.company}}</p>
+            <!-- <p class="google-font mb-0">{{data.jsonData.city}}, {{data.jsonData.country}}</p>
+            <p class="google-font mt-1">{{data.jsonData.designation}}, {{data.jsonData.company}}</p> -->
 
             <p class="google-font">{{data.jsonData.des}}</p>
-            <v-btn class="mt-0 mx-0" icon v-if="(data.jsonData.twitter).length>0" :href="data.jsonData.twitter" target="_blank">
-                <v-icon small style="color:#1da1f2">fab fa-twitter</v-icon>
-            </v-btn>
+          <v-btn :href="data.jsonData.website" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Paticipate in Challange <i aria-hidden="true" class="v-icon v-icon--right material-icons theme--dark">keyboard_arrow_right</i></v-btn>
 
-            <v-btn class="mt-0 mx-0" icon v-if="(data.jsonData.linkedin).length>0" :href="data.jsonData.linkedin" target="_blank">
-                <v-icon small style="color:#0077b5">fab fa-linkedin-in</v-icon>
-            </v-btn>
-
-            <v-btn class="mt-0 mx-0" icon v-if="(data.jsonData.github).length>0" :href="data.jsonData.github" target="_blank">
-                <v-icon small style="color:#333">fab fa-github</v-icon>
-            </v-btn>
-            <v-btn class="mt-0 mx-0" icon v-if="(data.jsonData.website).length>0" :href="data.jsonData.website" target="_blank">
-                <v-icon style="color:#333">link</v-icon>
-            </v-btn>
 
         </v-card-text>
 
