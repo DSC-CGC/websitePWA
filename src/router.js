@@ -50,6 +50,12 @@ export default new Router({
                 import ('./views/About.vue')
         },
         {
+            path: '/challenges',
+            name: 'challenge',
+            component: () =>
+                import ('./views/challenges.vue')
+        },
+        {
             path: '/contact',
             name: 'contact',
             component: () =>
