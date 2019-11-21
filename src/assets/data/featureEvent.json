@@ -1,22 +1,22 @@
 {
-    "FeatureEventName": "",
-    "EventImage": "",
+    "FeatureEventName": "Machine Learning Workshop",
+    "EventImage": "https://pbs.twimg.com/media/EGCRf0uVUAEah0m?format=jpg&name=medium",
     "EventDate": {
-        "Date": "23",
-        "Month": "12",
+        "Date": "10",
+        "Month": "10",
         "Year": "2019"
     },
     "EventTime": {
-        "StartTime": "10:00 AM",
-        "EndTime": "01:00 PM"
+        "StartTime": "02:00 PM",
+        "EndTime": "04:30 PM"
     },
     "EventVenue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
-    "EventVenueMapLink": "https://goo.gl/maps/3UQvh5ixVuGKBUao6",
-    "EventWebsite": "",
-    "EventDescription": "We’re hosting a viewing party for Flutter Interact, and we’d love for you to be part of the celebration!",
+    "EventVenueMapLink": "https://goo.gl/maps/4Z8pminYsp42",
+    "EventWebsite": "https://iwd.gdgjalandhar.com/",
+    "EventDescription": "Machine Learning, an event from the long list of DSC CGC was organised today in Chandigarh Group of Colleges, Landran for these brilliant young minds!",
     "MeetupLink": "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink": "",
-    "FBEventPageURL": "",
-    "TwitterURL": ""
+    "RegistrationLink": "bit.ly/cgc-ml",
+    "FBEventPageURL": "https://www.instagram.com/p/B3cL8l8hS9f/?utm_source=ig_web_copy_link",
+    "TwitterURL": "https://twitter.com/dsccgc/status/1182293654565572613?s=19"
 
 }
