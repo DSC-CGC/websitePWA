@@ -11,7 +11,7 @@
                     <v-tooltip bottom>
                         <template v-slot:activator="{ on }" >
                             <a :href="item.link" target="_blank" flat class="ma-0">
-                                <img :src="getImgUrl(item.image)" width="30vh" alt="" srcset="" dark v-on="on">
+                                <img :src="getImgUrl(item.image)" width="24vh" alt="" srcset="" dark v-on="on">
                             </a>
                             &nbsp;&nbsp;&nbsp;
                         </template>
@@ -19,7 +19,7 @@
                     </v-tooltip>
                 </span>
 
-                <br><br>
+                <br>
 
                 <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Learn More</v-btn>
 
