@@ -1,3 +1,11 @@
-[
+[{
+        "name": "Machine Learning Workshop",
+        "local_date": "11-12 January,2020",
+        "local_time": "10:00 PM - 04:30 PM (IST)",
+        "link": "https://twitter.com/dsccgc/status/1182293654565572613?s=19",
+        "venue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
+        "summery": "In this workshop, you will experience the entire product development lifecycle, right from getting a feature request from your product manager, to building, testing, and pushing the feature out, in a work-like environment, with guidance from Tech Leads and Crio.",
+        "description": "We are thrilled to introduce a one-of-a-kind online workshop, on 11th and 12th January, where you can experience what it takes to build real products features in a work-like environment, and learn key programming & software engineering concepts along the way."
+    }
 
 ]

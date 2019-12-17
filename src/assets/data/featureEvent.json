@@ -1,22 +1,22 @@
 {
-    "FeatureEventName": "Machine Learning Workshop",
-    "EventImage": "https://pbs.twimg.com/media/EGCRf0uVUAEah0m?format=jpg&name=medium",
+    "FeatureEventName": "Weekend Workshop",
+    "EventImage": "https://pbs.twimg.com/media/EL9Pm3cUwAAu9qV?format=jpg&name=small",
     "EventDate": {
-        "Date": "10",
-        "Month": "10",
-        "Year": "2019"
+        "Date": "11-12",
+        "Month": "January  ",
+        "Year": "2020"
     },
     "EventTime": {
-        "StartTime": "02:00 PM",
+        "StartTime": "10:00 AM",
         "EndTime": "04:30 PM"
     },
     "EventVenue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
     "EventVenueMapLink": "https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite": "https://iwd.gdgjalandhar.com/",
-    "EventDescription": "Machine Learning, an event from the long list of DSC CGC was organised today in Chandigarh Group of Colleges, Landran for these brilliant young minds!",
-    "MeetupLink": "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink": "bit.ly/cgc-ml",
-    "FBEventPageURL": "https://www.instagram.com/p/B3cL8l8hS9f/?utm_source=ig_web_copy_link",
-    "TwitterURL": "https://twitter.com/dsccgc/status/1182293654565572613?s=19"
+    "EventWebsite": "https://crioforms.typeform.com/to/ZmWu5Y",
+    "EventDescription": "We are thrilled to introduce a one-of-a-kind online workshop, on 11th and 12th January, where you can experience what it takes to build real products features in a work-like environment, and learn key programming & software engineering concepts along the way.",
+    "MeetupLink": "https://crioforms.typeform.com/to/ZmWu5Y",
+    "RegistrationLink": "https://crioforms.typeform.com/to/ZmWu5Y",
+    "FBEventPageURL": "https://www.instagram.com/p/B6I05Rkhceb/?utm_source=ig_web_copy_link",
+    "TwitterURL": "https://twitter.com/dsccgc/status/1206611574690992130?s=08"
 
 }
