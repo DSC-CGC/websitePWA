@@ -1,22 +1,22 @@
 {
-    "FeatureEventName": "Weekend Workshop",
-    "EventImage": "https://pbs.twimg.com/media/EL9Pm3cUwAAu9qV?format=jpg&name=large",
+    "FeatureEventName": "Machine Learning Intermediate Workshop",
+    "EventImage": "https://i.imgur.com/iSHpXh4l.jpg",
     "EventDate": {
-        "Date": "11-12",
+        "Date": "14",
         "Month": "January  ",
         "Year": "2020"
     },
     "EventTime": {
-        "StartTime": "10:00 AM",
-        "EndTime": "04:30 PM"
+        "StartTime": "09:00 AM",
+        "EndTime": "12:00  PM"
     },
     "EventVenue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
     "EventVenueMapLink": "https://goo.gl/maps/WJLKVaYqXHPRZgqa7",
-    "EventWebsite": "https://crioforms.typeform.com/to/ZmWu5Y",
-    "EventDescription": "We are thrilled to introduce a one-of-a-kind online workshop, on 11th and 12th January, where you can experience what it takes to build real products features in a work-like environment, and learn key programming & software engineering concepts along the way.",
-    "MeetupLink": "https://crioforms.typeform.com/to/ZmWu5Y",
-    "RegistrationLink": "https://crioforms.typeform.com/to/ZmWu5Y",
-    "FBEventPageURL": "https://www.instagram.com/p/B6I05Rkhceb/?utm_source=ig_web_copy_link",
-    "TwitterURL": "https://twitter.com/dsccgc/status/1206611574690992130?s=08"
+    "EventWebsite": "https://www.meetup.com/GDG-Chandigarh/events/267682838/",
+    "EventDescription": "Machine Learning Intermediate Workshop. GDG CHANDIGARH is going to organize an Event Community Hours where we are going to discuss about the community and new updates in the industries. An open session for the Technology aspirant to share their success stories and knowledge amount all.",
+    "MeetupLink": "https://www.meetup.com/GDG-Chandigarh/events/267682838/",
+    "RegistrationLink": "https://www.meetup.com/GDG-Chandigarh/events/267682838/",
+    "FBEventPageURL": "https://www.instagram.com/dsccgc/",
+    "TwitterURL": "https://twitter.com/dsccgc/"
 
 }

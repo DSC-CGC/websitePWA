@@ -1,11 +1,11 @@
 [{
-        "name": "Weekend Workshop",
-        "local_date": "11 January,2020",
-        "local_time": "10:00 PM - 04:30 PM (IST)",
-        "link": "https://crioforms.typeform.com/to/ZmWu5Y",
+        "name": "Machine Learning Intermediate Workshop",
+        "local_date": "14 January,2020",
+        "local_time": "09:00 AM to 12:00 PM (IST)",
+        "link": "https://www.meetup.com/GDG-Chandigarh/events/267682838/",
         "venue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
-        "summery": "In this workshop, you will experience the entire product development lifecycle, right from getting a feature request from your product manager, to building, testing, and pushing the feature out, in a work-like environment, with guidance from Tech Leads and Crio.",
-        "description": "We are thrilled to introduce a one-of-a-kind online workshop, on 11th and 12th January, where you can experience what it takes to build real products features in a work-like environment, and learn key programming & software engineering concepts along the way."
+        "summery": "Machine Learning Intermediate Workshop. GDG CHANDIGARH is going to organize an Event Community Hours where we are going to discuss about the community and new updates in the industries. An open session for the Technology aspirant to share their success stories and knowledge amount all.",
+        "description": "Machine Learning Intermediate Workshop. GDG CHANDIGARH is going to organize an Event Community Hours where we are going to discuss about the community and new updates in the industries. An open session for the Technology aspirant to share their success stories and knowledge amount all."
     }
 
 ]
