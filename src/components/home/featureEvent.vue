@@ -32,6 +32,9 @@
                <p class="google-font mt-2 mb-1" style="font-size:115%;color:#757575">
                    {{eventDetails.EventDescription}}
                </p>
+                <p class="google-font mt-2 mb-1" style="font-size:115%;color:#757575;font-weight: bold">
+                   Registration Fee Just Rs 25 which you need to pay during registration
+               </p>
 
                 <v-btn color="#1a73e8" v-if="eventDetails.RegistrationLink.length>0" :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;">
                     Registration Link
